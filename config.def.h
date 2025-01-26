@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liga SFMono Nerd Font:pixelsize=17:antialias=true:autohint=true";
+static char *font = "SFMono Nerd Font Mono:pixelsize=17:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
