@@ -148,14 +148,13 @@ static const ColorScheme schemes[] = {
             [255] = 0,
 
             /* more colors can be added after 255 */
-            // "#e0def4", /* foreground */
-            // "#191724", /* background */
-            "#555555",
+            "#e0def4", /* foreground */
+            "#191724", /* background */
         },
-        7,   /* selection background (not directly in Alacritty theme) */
-        0,   /* selection foreground (not directly in Alacritty theme) */
         256, /* default foreground */
         257, /* default background */
+        0,   /* selection foreground (not directly in Alacritty theme) */
+        4,   /* selection background (not directly in Alacritty theme) */
     },
 
     // iTerm2 (dark)
